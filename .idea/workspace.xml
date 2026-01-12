@@ -4,38 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaaec2c2-3c4e-4d68-a407-4b2abd4208e0" name="Changes" comment="Move to root">
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/.gitignore" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/.gitignore" afterDir="false" />
+    <list default="true" id="aaaec2c2-3c4e-4d68-a407-4b2abd4208e0" name="Changes" comment="rm storybook">
+      <change afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/babel.config.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/metro.config.js" afterDir="false" />
       <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/.storybook/main.ts" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/.storybook/preview.ts" beforeDir="false" />
       <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/app.json" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/app.json" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/eslint.config.js" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/eslint.config.js" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/package-lock.json" beforeDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/app/(tabs)/explore.tsx" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/app/(tabs)/explore.tsx" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/app/(tabs)/index.tsx" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/app/_layout.tsx" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/app/_layout.tsx" afterDir="false" />
       <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/package.json" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/package.json" afterDir="false" />
       <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/pnpm-lock.yaml" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/pnpm-lock.yaml" afterDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/Button.stories.tsx" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/Button.tsx" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/Header.stories.tsx" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/Header.tsx" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/Page.stories.tsx" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/Page.tsx" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/accessibility.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/accessibility.svg" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/addon-library.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/assets.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/avif-test-image.avif" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/context.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/discord.svg" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/docs.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/figma-plugin.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/github.svg" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/share.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/styling.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/testing.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/theming.png" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/tutorials.svg" beforeDir="false" />
-      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/stories/assets/youtube.svg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/WebstormProjects/uniwind-storybook/tsconfig.json" beforeDir="false" afterPath="$USER_HOME$/WebstormProjects/uniwind-storybook/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,22 +50,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "flashlist",
+    "last_opened_file_path": "/Users/alexnicholson/WebstormProjects/uniwind-storybook",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/Users/alexnicholson/WebstormProjects/uniwind-storybook/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/WebstormProjects/uniwind-storybook" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$USER_HOME$/WebstormProjects/uniwind-storybook" />
     </key>
@@ -107,7 +93,7 @@
       <workItem from="1736735183440" duration="904000" />
       <workItem from="1766540069348" duration="1559000" />
       <workItem from="1767138211508" duration="1000" />
-      <workItem from="1768204209781" duration="214000" />
+      <workItem from="1768204209781" duration="1016000" />
     </task>
     <task id="LOCAL-00001" summary="Setup">
       <option name="closed" value="true" />
@@ -125,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766540934978</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rm storybook">
+      <option name="closed" value="true" />
+      <created>1768204432029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768204432029</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +130,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Setup" />
     <MESSAGE value="Move to root" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move to root" />
+    <MESSAGE value="rm storybook" />
+    <option name="LAST_COMMIT_MESSAGE" value="rm storybook" />
   </component>
 </project>
