@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "uniwind-storybook",
-    "slug": "uniwind-storybook",
+    "name": "uniwind-repro",
+    "slug": "uniwind-repro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "uniwindstorybook",
+    "scheme": "uniwindrepro",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
